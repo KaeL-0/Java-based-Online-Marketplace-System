@@ -76,3 +76,6 @@ This project is for academic purposes and not intended for commercial use.
 ## Contact
 For inquiries or suggestions, please contact the project contributors.
 
+## Link & References
+- [Documentation](https://docs.google.com/document/d/1YyMaBH3jv1cHICCrNv3u8prOoUobIJWI/edit?usp=sharing&ouid=116709682777897150867&rtpof=true&sd=true)
+
